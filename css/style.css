@@ -55,6 +55,7 @@ body {
   width: 540px;
   height: 446px;
   background-blend-mode: normal;
+  background-image: url("../images/image-header-desktop.jpg");
   position: relative;
 }
 
@@ -63,8 +64,6 @@ body {
   height: 582px;
   opacity: 0.75;
   background-blend-mode: multiply;
-  background-image: url("../images/image-header-desktop.jpg");
-  background-repeat: no-repeat;
   filter: saturate(-100%);
 }
 
